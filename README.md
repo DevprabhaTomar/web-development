@@ -42,7 +42,7 @@
         <h2>About This Page</h2>
         <p>This is a more engaging web page with additional images to make it look more interesting.</p>
         <div class="gallery">
-            <img src="https://via.placeholder.com/300" alt="![image alt](th.jpg">
+            <img src="https://via.placeholder.com/300" alt="Image 1">
             <img src="https://via.placeholder.com/300" alt="Image 2">
             <img src="https://via.placeholder.com/300" alt="Image 3">
         </div>
@@ -54,3 +54,4 @@
     </footer>
 </body>
 </html>
+![image alt](th.jpg)
