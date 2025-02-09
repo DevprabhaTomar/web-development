@@ -42,7 +42,7 @@
         <h2>About This Page</h2>
         <p>This is a more engaging web page with additional images to make it look more interesting.</p>
         <div class="gallery">
-            <img src="https://via.placeholder.com/300" alt="Image 1">
+            <img src="https://via.placeholder.com/300" alt="Image 1https://github.com/DevprabhaTomar/web-development/commit/79551dd557964e07b1f1daaed577ed645c6224c8">
             <img src="https://via.placeholder.com/300" alt="Image 2">
             <img src="https://via.placeholder.com/300" alt="Image 3">
         </div>
